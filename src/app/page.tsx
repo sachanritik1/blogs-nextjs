@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export function Home() {
+export default function Home() {
   return (
     <div className="bg-red-500 w-20 h-20">
       <h1>Home</h1>
